@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoFlex\Api\FastFlex\FastFlex.Application\bin\Debug\net6.0\FastFlex.Application.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoFlex\Api\FastFlex\FastFlex.Application\bin\Debug\net6.0\FastFlex.Application.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoFlex\Api\FastFlex\FastFlex.Application\bin\Debug\net6.0\FastFlex.Application.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoFlex\Api\FastFlex\FastFlex.Application\bin\Debug\net6.0\ref\FastFlex.Application.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoFlex\Api\FastFlex\FastFlex.Application\bin\Debug\net6.0\FastFlex.Application.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoFlex\Api\FastFlex\FastFlex.Application\obj\Debug\net6.0\FastFlex.Application.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoFlex\Api\FastFlex\FastFlex.Application\obj\Debug\net6.0\FastFlex.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoFlex\Api\FastFlex\FastFlex.Application\obj\Debug\net6.0\FastFlex.Application.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoFlex\Api\FastFlex\FastFlex.Application\obj\Debug\net6.0\FastFlex.Application.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoFlex\Api\FastFlex\FastFlex.Application\obj\Debug\net6.0\FastFlex.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoFlex\Api\FastFlex\FastFlex.Application\obj\Debug\net6.0\FastFlex.Application.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoFlex\Api\FastFlex\FastFlex.Application\obj\Debug\net6.0\ref\FastFlex.Application.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoFlex\Api\FastFlex\FastFlex.Application\obj\Debug\net6.0\FastFlex.Application.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\ProjetoFlex\Api\FastFlex\FastFlex.Application\obj\Debug\net6.0\FastFlex.Application.genruntimeconfig.cache

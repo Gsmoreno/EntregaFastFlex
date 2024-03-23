@@ -1,0 +1,6 @@
+Regras Status
+
+1 = pacote Recebido
+2 = pacote entregue a base
+3 = pacote em rota de entrega
+4 - pacote sendo levado ao cliente

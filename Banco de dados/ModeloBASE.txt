@@ -1,0 +1,60 @@
+Tabela Clientes
+Id
+Nome Fantasia
+Razao social
+Contato
+Telefone
+Email
+Logradouro 
+Bairro
+CEp
+Cidade
+UF
+Cnpj
+
+Tabela Entregas
+Id
+Cep_destino
+Cep_Origem
+Rua
+Numero
+Bairro
+Preco_entrega
+Qntd_pacotes
+Status
+HoraSaida
+HoraEntreda
+Id_Entregador
+Id_Cliente
+Id_Distrito
+Id_Destinatario
+
+Tabela Pacotes
+Id
+Altura
+Largura
+Comprimento
+Peso
+Id_Entrega
+
+Tabela Entregadores
+Id
+Nome
+Cnpj
+Qtd_Entregas
+Entregas_Total
+Atende_Cep
+
+Tabela distrito 
+Id
+Nome
+
+Tabela Destinatario
+Nome
+Cnpj
+Cep
+Rua
+Numero
+Bairro
+Cidade 
+UF

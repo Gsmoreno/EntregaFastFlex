@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.esquerda {
+    background-color: #262626;
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.direita {
+    background-color: #FBFBFB;
+    width: 50%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.centro {
+    text-align: center;
+}
+
+.centro>b {
+    font-size: 1.3rem;
+}
+
+.centro>p {
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.centro>input {
+    width: 37.6vw;
+    height: 8.4vh;
+    box-shadow: inset 0px 6px 16px #00000029;
+    border: 3px solid #EBEBEB;
+    border-radius: 20px;
+    margin-top: 1.5em;
+}
+
+#inp::placeholder {
+    padding-left: 1em;
+}
+
+#botao{
+    width: 1vw;
+    height: 2vh;
+    
+    box-shadow: inset 0px 6px 16px #00000029;
+    border: 3px solid #EBEBEB;
+    border-radius: 20px;
+}
+
+.logado {
+    align-items: center;
+    margin-top: 1em;
+}
+
+.logado>p {
+    margin-bottom: 0;
+    margin-left: 1em;
+
+}
+
+.bCentro> a > button {
+    width: 17.7vw;
+    height: 8.4vh;
+    background: transparent linear-gradient(284deg, var(--unnamed-color-f5a900) 0%, #F6CA37 100%) 0% 0% no-repeat padding-box;
+    border: 3px solid var(--unnamed-color-f5a900);
+    background: transparent linear-gradient(284deg, #F5A900 0%, #F6CA37 100%) 0% 0% no-repeat padding-box;
+    border: 3px solid #F5A900;
+    border-radius: 20px;
+    font-size: 1.3rem;
+    font-weight: 800;
+    margin-top: 1em;
+}
+
+.bCentro {
+    justify-content: center;
+}
+
+.centro > a{
+    color: #F5A900 !important;
+    margin-top: 1.5em;
+}
+
+#cadastro{
+    color: #F5A900 !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500; 
+    margin-right: 0.3em;
+    
+
+}
+
+
+
+.centroE {
+    display: flex;
+    margin-bottom: 5em;
+    justify-content: center;
+    align-items: end;
+}
+
+.centroE > h3{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    width: 25vw;
+    font-size: 1.5rem;
+}
+
+
+#logo{
+    width: 40%;
+    margin-bottom: 1em;
+}
+
+.logoCentro{
+    display: flex;
+    justify-content: center ;
+}
+
+#moto{
+    width: 80%;
+}

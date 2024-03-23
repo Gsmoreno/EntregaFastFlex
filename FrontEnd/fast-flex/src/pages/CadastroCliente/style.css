@@ -1,0 +1,252 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.direita::placeholder
+{
+    color: #262626;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.esquerdaaa {
+    background-color: #262626;
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.direita {
+    background-color: #FBFBFB;
+    width: 50%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+}
+
+.centro2 {
+    text-align: center;
+    align-items: center;
+}
+
+.centro2>b {
+    font-size: 1rem;
+}
+
+.centro2>p {
+    font-size: 1rem;
+    font-weight: 600;
+    width: 60%;
+    align-self: center;
+}
+
+.centro2>input {
+    width: 37.6vw;
+    height: 5vh;
+    box-shadow: inset 0px 6px 16px #00000029;
+    border: 3px solid #EBEBEB;
+    border-radius: 20px;
+    margin-top: 1.5em;
+    padding: 1em;
+}
+
+#inp::placeholder {
+    padding-left: 1em;
+}
+
+#botao {
+    width: 1vw;
+    height: 2vh;
+    
+    box-shadow: inset 0px 6px 16px #00000029;
+    border: 3px solid #EBEBEB;
+    border-radius: 20px;
+}
+
+.logado {
+    align-items: center;
+    margin-top: 1em;
+}
+
+.logado>p {
+    margin-bottom: 0;
+    margin-left: 1em;
+
+}
+
+.bCentro>a>button {
+    width: 17.7vw;
+    height: 8.4vh;
+    background: transparent linear-gradient(284deg, var(--unnamed-color-f5a900) 0%, #F6CA37 100%) 0% 0% no-repeat padding-box;
+    border: 3px solid var(--unnamed-color-f5a900);
+    background: transparent linear-gradient(284deg, #F5A900 0%, #F6CA37 100%) 0% 0% no-repeat padding-box;
+    border: 3px solid #F5A900;
+    border-radius: 20px;
+    font-size: 1.3rem;
+    font-weight: 800;
+    margin-top: 1em;
+}
+
+.bCentro {
+    justify-content: center;
+}
+
+.centro2 > a{
+    color: #F5A900 !important;
+    margin-top: 1.5em;
+}
+
+#cadastro{
+    color: #F5A900 !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500; 
+    margin-right: 0.3em;
+    
+
+}
+
+
+
+.centroEE {
+    display: flex;
+    margin-bottom: 5em;
+}
+
+.centroEE > h3{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    width: 25vw;
+    font-size: 1.5rem;
+}
+
+
+#logoo{
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+#logo2{
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+.logoCentro{
+    display: flex;
+    justify-content: center ;
+}
+
+.numeroEndereco
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+#Endereco
+{
+    width: 25vw;
+}
+
+.endereco-container>input{
+    width: 37.6vw;
+    height: 5vh;
+    box-shadow: inset 0px 6px 16px #00000029;
+    border: 3px solid #EBEBEB;
+    border-radius: 20px;
+    margin-top: 1.5em;
+    padding: 1em;
+}
+
+.numeroEndereco > input{
+    width: 32;
+    height: 5vh;
+    box-shadow: inset 0px 6px 16px #00000029;
+    border: 3px solid #EBEBEB;
+    border-radius: 20px;
+    margin-top: 1.5em;
+    padding: 1em;
+}
+
+.endereco-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bCentro{
+    display: flex;
+}
+
+.endereco-container > p{
+    font-size: 1rem;
+    font-weight: 600;
+    align-self: center;
+}
+
+.descricao-container 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.descricao-container > p
+{
+    display: flex;
+    font-size: 1rem;
+    font-weight: 600;
+    justify-content: center;
+    width: 50%;
+    
+}
+
+
+.descricao
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.descricao > .logoCentro{
+    display: flex;
+    justify-content: center ;
+}
+
+
+
+.descricao > input
+{
+    width: 20vw;
+    height: 15vh;
+    box-shadow: inset 0px 6px 16px #00000029;
+    border: 3px solid #EBEBEB;
+    border-radius: 20px;
+    margin-top: 1.5em;
+    padding: 1em;
+}
+
+.descricao >a > button
+{
+    width: 17.7vw;
+    height: 8.4vh;
+    background: transparent linear-gradient(284deg, var(--unnamed-color-f5a900) 0%, #F6CA37 100%) 0% 0% no-repeat padding-box;
+    border: 3px solid var(--unnamed-color-f5a900);
+    background: transparent linear-gradient(284deg, #F5A900 0%, #F6CA37 100%) 0% 0% no-repeat padding-box;
+    border: 3px solid #F5A900;
+    border-radius: 20px;
+    font-size: 1.3rem;
+    font-weight: 800;
+    margin-top: 1em;
+}

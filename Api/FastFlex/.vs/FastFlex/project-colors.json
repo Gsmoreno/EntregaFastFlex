@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d8c4726-438c-434e-943f-c2fd51291069": {
+      "ProjectGuid": "6d8c4726-438c-434e-943f-c2fd51291069",
+      "DisplayName": "FastFlex.WebApi",
+      "ColorIndex": 0
+    },
+    "59e5ba3e-8da6-4a90-b577-41bbc75b7398": {
+      "ProjectGuid": "59e5ba3e-8da6-4a90-b577-41bbc75b7398",
+      "DisplayName": "FastFlex.Models",
+      "ColorIndex": 1
+    },
+    "fbd108e6-cf50-4433-b10e-01f5a4df694d": {
+      "ProjectGuid": "fbd108e6-cf50-4433-b10e-01f5a4df694d",
+      "DisplayName": "FastFlex.Infrastructure",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
